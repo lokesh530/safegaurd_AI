@@ -1,0 +1,25 @@
+ultralytics
+opencv-python-headless
+streamlit
+numpy
+pandas
+torch
+watchdog
+lap>=0.5.12
+
+# Face Recognition
+face_recognition
+dlib
+pillow
+
+# Configuration & Security
+python-dotenv
+pydantic
+streamlit-authenticator
+
+# Notifications
+sendgrid
+twilio
+
+# Database
+sqlalchemy
